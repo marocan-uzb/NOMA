@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+a{
+    color: gray;
+    text-decoration: none;
+    padding-top: 20px;
+}
+.x{
+    font-size: 50px;
+    
+}
+.ff{
+    
+    padding-bottom: 50px;
+    width: 500px;
+}
+.but{
+    Width:105px;
+Height:40px;
+background: #2BD0D0;
+border-radius: 50px;
+color: white;
+border: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.left{
+    display: flex;
+    justify-content: space-between;
+    
+    gap: 20px;
+}
+
+h1{
+    font-size: 100px;
+    padding-left: 150px;
+    align-items: center;
+    padding-top: 50px;
+
+}
+.one{
+    display: flex;
+    justify-content: space-between;
+}
+.stil{
+    background-color: #2BD0D0;
+    border-radius: 50px;
+color: white;
+Width:
+197px;
+Height:
+56px;
+transform: translateX(150px);
+border: none;
+}
+.input{
+    Width:1110px;
+    Height:168px;
+    background-color: #4B3F6B;
+    transform: translate3d(200px,100px,0);
+    display: flex;
+    justify-content: space-between;
+    padding-right: 70px;
+    padding-top: 50px;
+    padding-left: 60px;
+    transform: translate3d(0,230px,0);
+    margin: 0 auto;
+}
+
+input{
+    padding-left: 30px;
+    width: 750px;
+    height: 50px;
+    
+}
+
+.class{
+    background-color: #2BD0D0;
+    width: 200px;
+    height: 50px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+
+.cx{
+    font-size: 30px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 100px  ;
+    color: white;
+}
+.two{
+    background-color: rgb(79, 28, 28);
+    height: 300px;
+    align-items: center;
+}
+.maks52{
+    width: 200px;height: 60px;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    background-color: #2BD0D0;
+    transform: translateX(600px);
+}
+
+.cc{
+    font-size: 50px;
+    color: white;
+}
+p{
+    color: white;
+    padding-top: 20px;
+}
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    padding-left: 150px;
+    padding-right: 150px;
+    height: 100px;
+    align-items: center;
+}
+.cvb{
+    background-color: black;
+    display: flex;
+
+    gap: 50px
+    
+}
+.as{
+    display: flex;
+    gap: 20px;
+    
+}
